@@ -4,8 +4,8 @@
   --color-medium: #ced4da;
   --color-light: #f1f3f5;
 
-  --color-theme: #1098ad;
-  --color-accent: #ffa94d;
+  --color-theme: #0d9701;
+  --color-accent: #41646e;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
@@ -62,7 +62,6 @@ img {
 }
 
 h1 {
-  font-family: "Codystar";
   font-size: 5.6rem;
 }
 
